@@ -1,0 +1,47 @@
+﻿body
+{
+    margin: 0;
+    padding: 0;
+    background-color: #011627;
+    color: #FFFCF9;
+    font: 25px ABeeZee, sans-serif;
+    text-align: center;
+    overflow: auto;
+}
+
+.loginform
+{
+    margin-top: 10%;
+}
+
+.logo
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%;
+    margin-bottom: 15%;
+}
+
+.container
+{
+    text-align: center;
+    margin: 2.5%;
+    padding: 16px;
+}
+
+.button
+{
+    display: block;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(115deg, #9EDFE0, #FFEBC6);
+    border: none;
+    border-radius: 15px;
+    color: #011627;
+    padding: 20px 40px;
+    text-align: center;
+    font: bold 35px Open Sans, sans-serif;
+    cursor: pointer;
+}
