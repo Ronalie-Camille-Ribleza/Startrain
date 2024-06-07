@@ -45,3 +45,25 @@
     font: bold 35px Open Sans, sans-serif;
     cursor: pointer;
 }
+
+.loginform a:link
+{
+    color: #FFEBC6;
+    text-decoration: none;
+}
+
+.loginform a:visited
+{
+    color: #9EDEF0;
+}
+
+.loginform a:hover
+{
+    text-decoration: underline;
+}
+
+.loginform a:active
+{
+    color: #9EDEF0;
+    text-decoration: underline;
+}
